@@ -1,0 +1,16 @@
+﻿  stdafx.cpp
+  PruebasContour.cpp
+c:\users\samuel\documents\visual studio 2015\projects\tt2\pruebascontour\codigoTT.h(144): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\samuel\documents\visual studio 2015\projects\tt2\pruebascontour\codigoTT.h(148): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\samuel\documents\visual studio 2015\projects\tt2\pruebascontour\codigoTT.h(157): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\samuel\documents\visual studio 2015\projects\tt2\pruebascontour\codigoTT.h(124): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+  c:\users\samuel\documents\visual studio 2015\projects\tt2\pruebascontour\codigoTT.h(124): note: consider using '%zd' in the format string
+c:\users\samuel\documents\visual studio 2015\projects\tt2\pruebascontour\codigoTT.h(180): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+c:\users\samuel\documents\visual studio 2015\projects\tt2\pruebascontour\codigoTT.h(31): warning C4102: 'std': unreferenced label
+  Generating code
+  511 of 515 functions (99.2%) were compiled, the rest were copied from previous compilation.
+    38 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  PruebasContour.vcxproj -> C:\Users\Samuel\Documents\Visual Studio 2015\Projects\TT2\x64\Release\PruebasContour.exe
+  PruebasContour.vcxproj -> C:\Users\Samuel\Documents\Visual Studio 2015\Projects\TT2\x64\Release\PruebasContour.pdb (Full PDB)
